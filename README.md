@@ -1,6 +1,6 @@
 ### Hi, I'm Felix 👋
 I'm a student @CoderAcademy. 
-I'm currently learning <img src="https://user-images.githubusercontent.com/65514917/190879621-8e8090f9-0a28-4b45-bce8-e06418f2aa5f.svg" height="100">
+I'm currently learning <img src="https://user-images.githubusercontent.com/65514917/190879621-8e8090f9-0a28-4b45-bce8-e06418f2aa5f.svg" height="50">
 
 <!--
 **felixmckenzie/felixmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
