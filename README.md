@@ -9,4 +9,5 @@ I like to build things with:
 <img src="https://user-images.githubusercontent.com/65514917/190880457-f79870d1-3693-4676-8adb-6def0b8248bb.png" align="center" height="50">
 </p>
 
-
+ Contact Me 📧
+felixmckenzie90@gmail.com 
