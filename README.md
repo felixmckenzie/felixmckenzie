@@ -1,9 +1,7 @@
 ### Hi, I'm Felix 👋
 > I'm a student @CoderAcademy working hard towards a diploma of Information Technology 
 > I like to build things with: 
-<img src="https://user-images.githubusercontent.com/65514917/190880259-820b46fa-8321-4ec7-8fc8-b194ca56e549.svg" align="center" height="50">
-<img src="https://user-images.githubusercontent.com/65514917/190879621-8e8090f9-0a28-4b45-bce8-e06418f2aa5f.svg" align="center" height="50"> 
-<img src="https://user-images.githubusercontent.com/65514917/190880031-252479f1-29b1-4b3a-a857-2bcb3c3e2c16.svg" align="center" height="50">
+<img src="https://user-images.githubusercontent.com/65514917/190880259-820b46fa-8321-4ec7-8fc8-b194ca56e549.svg" align="center" height="50"> <img src="https://user-images.githubusercontent.com/65514917/190879621-8e8090f9-0a28-4b45-bce8-e06418f2aa5f.svg" align="center" height="50"> <img src="https://user-images.githubusercontent.com/65514917/190880031-252479f1-29b1-4b3a-a857-2bcb3c3e2c16.svg" align="center" height="50">
 
 
 
