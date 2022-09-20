@@ -1,5 +1,5 @@
 ### Hi, I'm Felix 👋
-I'm a student @CoderAcademy working hard towards a diploma of Information Technology 
+I'm a student @CoderAcademy working towards a diploma of Information Technology 
 
 I like to build things with: 
 
