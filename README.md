@@ -1,6 +1,8 @@
 ### Hi, I'm Felix 👋
-I like to build applications in Typescript, Node and React. 
 
+I recently graduated from the Academy of Information Technology with a diploma of Information Technology. 
+
+I build for the web in Typescript, React, & NodeJS.  
 
  Contact Me 📧
  
