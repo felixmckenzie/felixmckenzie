@@ -1,8 +1,6 @@
 ### Hi, I'm Felix 👋
 
-I recently graduated from AIT with a diploma of Information Technology. 
-
-I build for the web in Typescript, React, & NodeJS.  
+I'm a software developer at @HelloAgain. 
 
  Contact Me 📧
  
